@@ -8,7 +8,7 @@
 	</listeners>
   <test name="Regression1" >
     <classes>
-       <class name="com.catalog.selenium.LoginTest" />
+       <class name="com.catalog.tests.LoginTest" />
     </classes>
   </test>
 </suite>

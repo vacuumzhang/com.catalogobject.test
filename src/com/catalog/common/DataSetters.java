@@ -18,7 +18,7 @@ public class DataSetters {
 	public String propertiesReader(String file, String key) throws IOException {
 		Properties prop = new Properties();
 		InputStream input = null;
-		input = new FileInputStream("/com.catalogobjct.selenium/src/test/resources/config.properties");
+		input = new FileInputStream("./config.properties");
 		prop.load(input);
 		String outVale = prop.getProperty(key);
 		return outVale;

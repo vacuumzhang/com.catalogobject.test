@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="50.350">
+  <properties />
+  
+  
+            <testcase name="login02" time="6.088" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.235" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login01" time="7.256" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.099" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.176" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.175" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.173" classname="com.catalog.tests.LoginTest" />
+                <testcase name="login02" time="6.148" classname="com.catalog.tests.LoginTest" />
+      
+</testsuite>

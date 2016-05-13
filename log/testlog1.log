@@ -1,0 +1,90 @@
+2016-05-12 20:46:20,293 [main] ERROR com.catalog.common.Common - /Users/Simon/Documents/Selenium/Workspace/com.catalogobjct.selenium/src/test/resources/test.xlsx (No such file or directory)
+2016-05-12 20:47:41,014 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:47:43,781 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:47:44,849 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:47:44,956 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:47:46,411 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:47:47,558 [main] INFO com.catalog.common.Common - ecalix@Test.comsend to 
+2016-05-12 20:47:48,663 [main] INFO com.catalog.common.Common - test123send to 
+2016-05-12 20:47:48,684 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:47:50,221 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:47:50,258 [main] INFO com.catalog.common.Common - trying to click Log Off
+2016-05-12 20:47:52,104 [main] INFO com.catalog.common.Common - Log Off clicked
+2016-05-12 20:47:52,145 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:47:52,784 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:47:54,963 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:47:55,696 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:47:55,771 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:47:57,179 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:47:58,340 [main] INFO com.catalog.common.Common - asend to 
+2016-05-12 20:47:59,422 [main] INFO com.catalog.common.Common - Asend to 
+2016-05-12 20:47:59,448 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:00,796 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:01,872 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:01,887 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:01,888 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:04,280 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:04,792 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:04,880 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:06,255 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:07,364 [main] INFO com.catalog.common.Common - bsend to 
+2016-05-12 20:48:08,456 [main] INFO com.catalog.common.Common - Bsend to 
+2016-05-12 20:48:08,480 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:09,815 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:10,880 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:10,895 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:10,895 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:13,126 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:13,772 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:13,914 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:15,279 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:16,384 [main] INFO com.catalog.common.Common - csend to 
+2016-05-12 20:48:17,476 [main] INFO com.catalog.common.Common - Csend to 
+2016-05-12 20:48:17,495 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:18,921 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:20,006 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:20,026 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:20,030 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:22,750 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:23,363 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:23,431 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:24,804 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:25,935 [main] INFO com.catalog.common.Common - dsend to 
+2016-05-12 20:48:27,016 [main] INFO com.catalog.common.Common - Dsend to 
+2016-05-12 20:48:27,036 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:28,387 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:29,462 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:29,476 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:29,477 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:31,871 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:32,608 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:32,714 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:34,136 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:35,232 [main] INFO com.catalog.common.Common - esend to 
+2016-05-12 20:48:36,328 [main] INFO com.catalog.common.Common - Esend to 
+2016-05-12 20:48:36,351 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:37,705 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:38,780 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:38,795 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:38,796 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:41,162 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:41,911 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:41,974 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:43,447 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:44,548 [main] INFO com.catalog.common.Common - fsend to 
+2016-05-12 20:48:45,638 [main] INFO com.catalog.common.Common - Fsend to 
+2016-05-12 20:48:45,658 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:46,995 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:48,058 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:48,074 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 20:48:48,075 [main] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 20:48:50,367 [main] INFO com.catalog.common.Common - open Browser
+2016-05-12 20:48:50,899 [main] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 20:48:51,039 [main] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 20:48:52,428 [main] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 20:48:53,537 [main] INFO com.catalog.common.Common - gsend to 
+2016-05-12 20:48:54,623 [main] INFO com.catalog.common.Common - Gsend to 
+2016-05-12 20:48:54,649 [main] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 20:48:55,996 [main] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 20:48:57,073 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 20:48:57,089 [main] INFO com.catalog.common.Common - close Browser

@@ -35,7 +35,7 @@ public class Common {
 
 	public LoginPageFactory LoginPage;
 	public String chromePath = "./drivers/chromedriver";
-	public String excelPath = "/Users/Simon/Documents/Selenium/Workspace/com.catalogobjct.selenium/src/test/resources/test.xlsx";
+	public String excelPath = "./TestData/test.xlsx";
 	public XSSFWorkbook excelWorkbook;
 	public XSSFSheet excelSheet;
 	public XSSFRow row;
@@ -189,7 +189,7 @@ public class Common {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", element);
 		try {
-			Thread.sleep(1000);
+			Thread.sleep(500);
 		} catch (InterruptedException e) {
 			logger.info(e.getMessage());
 		}
