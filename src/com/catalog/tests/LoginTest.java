@@ -7,6 +7,7 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.catalog.common.CaptureScreenshot;
@@ -28,9 +29,10 @@ public class LoginTest {
 	public Common CM;
 
 	@BeforeMethod
-	public void setUp() throws IOException {
+	@Parameters("browser")
+	public void setUp(String browser) throws IOException {
 		CM = new Common(driver);
-		driver = CM.openBrowser();
+		driver = CM.openBrowser(browser);
 		CM.openUrl();
 	}
 	
@@ -54,8 +56,8 @@ public class LoginTest {
 		DataSetters rd = new DataSetters();
 		String username = rd.propertiesReader("config.properties", "email_address");
 		String password = rd.propertiesReader("config.properties", "password");
-		
-		CM.login(username, password);
+		LoginPage = new LoginPageFactory(driver);
+		LoginPage.login(username, password);
 		WelcomePage = new WelcomePageFactory(driver);
 		CM.clickElement(WelcomePage.LogOfButton());
 
@@ -65,9 +67,9 @@ public class LoginTest {
 	public void login02(String username, String password) {
 		HomePage = new HomePageFactory(driver);
 		HomePage.clickLogYourSelfLink();
-		CM.login(username, password);
 		String ActualText = " Error: No match for E-Mail Address and/or Password.";
 		LoginPage = new LoginPageFactory(driver);
+		LoginPage.login(username, password);
 		CM.verifyText(LoginPage.messageStackError(), ActualText);
 	}
 	

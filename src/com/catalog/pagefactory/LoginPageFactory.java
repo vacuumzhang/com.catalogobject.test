@@ -3,6 +3,7 @@ package com.catalog.pagefactory;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -14,7 +15,8 @@ import com.catalog.common.DataSetters;
 public class LoginPageFactory {
 	private WebDriver driver;
 	private Common CM;
-
+	private static Logger logger = Logger.getLogger(LoginPageFactory.class);
+	
 	// By userename = By.name("email_address");
 	// By pwd = By.name("password");
 	// By loginButton = By.xpath("//*[@id='tdb5']/span[2]");
@@ -52,6 +54,16 @@ public class LoginPageFactory {
 	
 	public WebElement messageStackError() {
 		return messageStackError;
+	}
+	
+	public void login(String username, String password) {
+		try {
+			enterUsername(username);
+			enterPwd(password);
+			clickLoginButton();
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
 	}
 	
 	public void loginMethod() throws IOException{

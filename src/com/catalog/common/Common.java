@@ -53,10 +53,8 @@ public class Common {
 		}
 	}
 
-	public WebDriver openBrowser() throws IOException {
+	public WebDriver openBrowser(String browerType) throws IOException {
 
-		DataSetters rd = new DataSetters();
-		String browerType = rd.propertiesReader("./config.properties", "browser");
 		logger.info("Brower Type: " + browerType);
 		if (browerType.equals("Firefox")) {
 			driver = new FirefoxDriver();
@@ -73,6 +71,14 @@ public class Common {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		logger.info("open Browser");
 		return driver;
+	}
+	
+	//browser type in local config.properties 
+	public WebDriver openBrowser() throws IOException {
+
+		DataSetters rd = new DataSetters();
+		String browserType = rd.propertiesReader("./config.properties", "browser");
+		return openBrowser(browserType);
 	}
 
 	public void closeBrowser() {
@@ -97,17 +103,6 @@ public class Common {
 		logger.info("back to " + driver.getTitle());
 	}
 
-	public void login(String username, String password) {
-		try {
-			LoginPage = new LoginPageFactory(driver);
-			LoginPage.enterUsername(username);
-			LoginPage.enterPwd(password);
-			LoginPage.clickLoginButton();
-		} catch (Exception e) {
-			logger.error(e.getMessage());
-		}
-	}
-
 	public void clickElement(WebElement target) {
 		try{
 			String element = target.getText();
@@ -122,10 +117,10 @@ public class Common {
 
 	public void sendKeyToElement(WebElement target, String input) {
 		try{
-		String element = target.getText();
+		String element = target.getAttribute("name");
 		highlightElement(driver, target);
 		target.sendKeys(input);
-		logger.info(input + "send to " + element);
+		logger.info("Send " + input + " to " + element);
 		} catch (Exception e) {
 			logger.error(e.getMessage());
 			

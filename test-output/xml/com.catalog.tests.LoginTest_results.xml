@@ -1,20 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Regression1"
-           tests="8"
-           failures="0"
+<testsuite name="ChromeTest"
+           tests="24"
+           failures="1"
            errors="0"
-           skipped="0"
-           time="50.350">
+           skipped="23"
+           time="0.009">
   <properties />
+            <testcase name="setUp" time="0.000" classname="com.catalog.tests.LoginTest">
+                <failure type="java.lang.IllegalStateException"
+                  message="The driver is not executable: /Users/Simon/Documents/Selenium/Workspace/com.catalogobject.test/./drivers/chromedriver"
+              >
+<![CDATA[java.lang.IllegalStateException: The driver is not executable: /Users/Simon/Documents/Selenium/Workspace/com.catalogobject.test/./drivers/chromedriver
+  com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+  org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:125)
+  org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:116)
+  org.openqa.selenium.chrome.ChromeDriverService.access$0(ChromeDriverService.java:1)
+  org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+  org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+  org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+  org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:116)
+  com.catalog.common.Common.openBrowser(Common.java:63)
+  com.catalog.tests.LoginTest.setUp(LoginTest.java:35)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:483)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+  org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+  org.testng.TestRunner.privateRun(TestRunner.java:774)
+  org.testng.TestRunner.run(TestRunner.java:624)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+  org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+  org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:393)
+  org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+  java.util.concurrent.FutureTask.run(FutureTask.java:266)
+  java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+  java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+  java.lang.Thread.run(Thread.java:745)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="setUp" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login01" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
+            <testcase name="login02" time="0.0" classname="com.catalog.tests.LoginTest">
+          <skipped />
+    </testcase>
   
   
-            <testcase name="login02" time="6.088" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.235" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login01" time="7.256" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.099" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.176" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.175" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.173" classname="com.catalog.tests.LoginTest" />
-                <testcase name="login02" time="6.148" classname="com.catalog.tests.LoginTest" />
-      
 </testsuite>

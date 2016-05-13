@@ -88,3 +88,235 @@
 2016-05-12 20:48:55,996 [main] INFO com.catalog.common.Common - Sign In clicked
 2016-05-12 20:48:57,073 [main] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
 2016-05-12 20:48:57,089 [main] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:06:41,958 [TestNG] INFO com.catalog.common.Common - Brower Type: Chrome
+2016-05-12 21:06:41,960 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:06:44,690 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:06:48,126 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:06:48,380 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:06:49,310 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:06:49,972 [TestNG] INFO com.catalog.common.Common - ecalix@Test.comsend to 
+2016-05-12 21:06:50,575 [TestNG] INFO com.catalog.common.Common - test123send to 
+2016-05-12 21:06:50,594 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:06:51,636 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:06:51,684 [TestNG] INFO com.catalog.common.Common - trying to click Log Off
+2016-05-12 21:06:52,678 [TestNG] INFO com.catalog.common.Common - Log Off clicked
+2016-05-12 21:06:52,705 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:06:52,773 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:06:55,740 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:06:59,584 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:06:59,734 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:00,737 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:01,394 [TestNG] INFO com.catalog.common.Common - asend to 
+2016-05-12 21:07:02,014 [TestNG] INFO com.catalog.common.Common - Asend to 
+2016-05-12 21:07:02,040 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:02,969 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:03,595 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:03,611 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:03,611 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:06,046 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:06,905 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:07,149 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:08,122 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:08,762 [TestNG] INFO com.catalog.common.Common - bsend to 
+2016-05-12 21:07:09,345 [TestNG] INFO com.catalog.common.Common - Bsend to 
+2016-05-12 21:07:09,372 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:10,301 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:10,964 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:10,983 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:10,983 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:13,478 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:14,815 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:14,913 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:15,846 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:16,513 [TestNG] INFO com.catalog.common.Common - csend to 
+2016-05-12 21:07:17,101 [TestNG] INFO com.catalog.common.Common - Csend to 
+2016-05-12 21:07:17,121 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:18,136 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:18,729 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:18,759 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:18,760 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:20,872 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:22,193 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:22,319 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:23,279 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:23,899 [TestNG] INFO com.catalog.common.Common - dsend to 
+2016-05-12 21:07:24,486 [TestNG] INFO com.catalog.common.Common - Dsend to 
+2016-05-12 21:07:24,505 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:25,410 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:25,987 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:26,002 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:26,002 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:28,125 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:31,143 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:31,221 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:32,076 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:32,786 [TestNG] INFO com.catalog.common.Common - esend to 
+2016-05-12 21:07:33,420 [TestNG] INFO com.catalog.common.Common - Esend to 
+2016-05-12 21:07:33,441 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:35,976 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:36,552 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:36,564 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:36,565 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:38,755 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:42,699 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:42,757 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:43,657 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:44,297 [TestNG] INFO com.catalog.common.Common - fsend to 
+2016-05-12 21:07:44,880 [TestNG] INFO com.catalog.common.Common - Fsend to 
+2016-05-12 21:07:44,903 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:45,785 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:46,438 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:46,469 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:07:46,469 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:07:48,555 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:07:50,365 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:50,462 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:07:51,382 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:07:52,012 [TestNG] INFO com.catalog.common.Common - gsend to 
+2016-05-12 21:07:52,599 [TestNG] INFO com.catalog.common.Common - Gsend to 
+2016-05-12 21:07:52,622 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:07:53,499 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:07:54,085 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:54,114 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:07,334 [TestNG] INFO com.catalog.common.Common - Brower Type: Chrome
+2016-05-12 21:16:07,334 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:10,057 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:11,906 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:12,169 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:13,117 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:13,777 [TestNG] INFO com.catalog.common.Common - Enter ecalix@Test.comto input
+2016-05-12 21:16:14,373 [TestNG] INFO com.catalog.common.Common - Enter test123to input
+2016-05-12 21:16:14,392 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:15,401 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:15,439 [TestNG] INFO com.catalog.common.Common - trying to click Log Off
+2016-05-12 21:16:16,298 [TestNG] INFO com.catalog.common.Common - Log Off clicked
+2016-05-12 21:16:16,453 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:16,482 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:18,757 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:19,645 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:19,728 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:20,583 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:21,249 [TestNG] INFO com.catalog.common.Common - Enter ato input
+2016-05-12 21:16:21,833 [TestNG] INFO com.catalog.common.Common - Enter Ato input
+2016-05-12 21:16:21,854 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:22,682 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:23,292 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:23,310 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:23,311 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:25,429 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:26,189 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:26,351 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:27,245 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:27,898 [TestNG] INFO com.catalog.common.Common - Enter bto input
+2016-05-12 21:16:28,491 [TestNG] INFO com.catalog.common.Common - Enter Bto input
+2016-05-12 21:16:28,519 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:29,384 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:29,961 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:29,979 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:29,980 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:32,034 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:33,081 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:33,183 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:34,008 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:34,660 [TestNG] INFO com.catalog.common.Common - Enter cto input
+2016-05-12 21:16:35,242 [TestNG] INFO com.catalog.common.Common - Enter Cto input
+2016-05-12 21:16:35,265 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:36,131 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:36,700 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:36,717 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:36,717 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:38,853 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:39,781 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:39,870 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:40,794 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:41,428 [TestNG] INFO com.catalog.common.Common - Enter dto input
+2016-05-12 21:16:42,023 [TestNG] INFO com.catalog.common.Common - Enter Dto input
+2016-05-12 21:16:42,047 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:42,982 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:43,562 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:43,574 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:43,574 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:45,713 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:46,918 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:47,017 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:47,961 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:48,593 [TestNG] INFO com.catalog.common.Common - Enter eto input
+2016-05-12 21:16:49,184 [TestNG] INFO com.catalog.common.Common - Enter Eto input
+2016-05-12 21:16:49,211 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:50,077 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:50,705 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:50,721 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:50,721 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:52,800 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:16:53,957 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:54,133 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:16:55,083 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:16:55,724 [TestNG] INFO com.catalog.common.Common - Enter fto input
+2016-05-12 21:16:56,317 [TestNG] INFO com.catalog.common.Common - Enter Fto input
+2016-05-12 21:16:56,338 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:16:57,197 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:16:57,777 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:57,809 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:16:57,809 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:16:59,949 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:17:01,388 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:17:01,443 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:17:02,652 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:17:03,292 [TestNG] INFO com.catalog.common.Common - Enter gto input
+2016-05-12 21:17:03,873 [TestNG] INFO com.catalog.common.Common - Enter Gto input
+2016-05-12 21:17:03,893 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:17:04,754 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:17:05,337 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:17:05,365 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:18:47,764 [TestNG] INFO com.catalog.common.Common - Brower Type: Chrome
+2016-05-12 21:18:47,764 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:18:50,542 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:18:51,227 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:18:51,399 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:18:52,228 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:18:52,917 [TestNG] INFO com.catalog.common.Common - Enter ecalix@Test.comto email_address
+2016-05-12 21:18:53,507 [TestNG] INFO com.catalog.common.Common - Enter test123to password
+2016-05-12 21:18:53,525 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:18:54,443 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:18:54,521 [TestNG] INFO com.catalog.common.Common - trying to click Log Off
+2016-05-12 21:18:55,476 [TestNG] INFO com.catalog.common.Common - Log Off clicked
+2016-05-12 21:18:55,505 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:18:55,538 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:18:57,733 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:18:58,601 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:18:58,671 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:18:59,607 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:19:00,231 [TestNG] INFO com.catalog.common.Common - Enter ato email_address
+2016-05-12 21:19:00,815 [TestNG] INFO com.catalog.common.Common - Enter Ato password
+2016-05-12 21:19:00,835 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:19:01,879 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:19:02,514 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:02,527 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:19:02,527 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:19:04,626 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:19:05,449 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:05,517 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:19:06,447 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:19:07,075 [TestNG] INFO com.catalog.common.Common - Enter bto email_address
+2016-05-12 21:19:07,657 [TestNG] INFO com.catalog.common.Common - Enter Bto password
+2016-05-12 21:19:07,686 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:19:08,580 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:19:09,166 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:09,177 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:19:09,177 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:19:11,307 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:19:12,541 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:12,666 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:19:13,699 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:19:14,355 [TestNG] INFO com.catalog.common.Common - Enter cto email_address
+2016-05-12 21:19:14,936 [TestNG] INFO com.catalog.common.Common - Enter Cto password
+2016-05-12 21:19:14,967 [TestNG] INFO com.catalog.common.Common - trying to click Sign In
+2016-05-12 21:19:15,856 [TestNG] INFO com.catalog.common.Common - Sign In clicked
+2016-05-12 21:19:16,443 [TestNG] INFO com.catalog.common.Common - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:16,468 [TestNG] INFO com.catalog.common.Common - close Browser
+2016-05-12 21:19:16,468 [TestNG] INFO com.catalog.common.Common - Brower Type: Firefox
+2016-05-12 21:19:18,560 [TestNG] INFO com.catalog.common.Common - open Browser
+2016-05-12 21:19:19,448 [TestNG] INFO com.catalog.common.Common - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:19,528 [TestNG] INFO com.catalog.common.Common - trying to click log yourself in
+2016-05-12 21:19:20,452 [TestNG] INFO com.catalog.common.Common - log yourself in clicked
+2016-05-12 21:19:21,117 [TestNG] INFO com.catalog.common.Common - Enter dto email_address

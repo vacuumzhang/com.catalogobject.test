@@ -88,3 +88,235 @@
 2016-05-12 20:48:55,996 - com.catalog.common.Common -INFO - Sign In clicked
 2016-05-12 20:48:57,073 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
 2016-05-12 20:48:57,089 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:06:41,958 - com.catalog.common.Common -INFO - Brower Type: Chrome
+2016-05-12 21:06:41,960 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:06:44,690 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:06:48,126 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:06:48,380 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:06:49,310 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:06:49,972 - com.catalog.common.Common -INFO - ecalix@Test.comsend to 
+2016-05-12 21:06:50,575 - com.catalog.common.Common -INFO - test123send to 
+2016-05-12 21:06:50,594 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:06:51,636 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:06:51,684 - com.catalog.common.Common -INFO - trying to click Log Off
+2016-05-12 21:06:52,678 - com.catalog.common.Common -INFO - Log Off clicked
+2016-05-12 21:06:52,705 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:06:52,773 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:06:55,740 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:06:59,584 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:06:59,734 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:00,737 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:01,394 - com.catalog.common.Common -INFO - asend to 
+2016-05-12 21:07:02,014 - com.catalog.common.Common -INFO - Asend to 
+2016-05-12 21:07:02,040 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:02,969 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:03,595 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:03,611 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:03,611 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:06,046 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:06,905 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:07,149 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:08,122 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:08,762 - com.catalog.common.Common -INFO - bsend to 
+2016-05-12 21:07:09,345 - com.catalog.common.Common -INFO - Bsend to 
+2016-05-12 21:07:09,372 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:10,301 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:10,964 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:10,983 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:10,983 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:13,478 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:14,815 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:14,913 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:15,846 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:16,513 - com.catalog.common.Common -INFO - csend to 
+2016-05-12 21:07:17,101 - com.catalog.common.Common -INFO - Csend to 
+2016-05-12 21:07:17,121 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:18,136 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:18,729 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:18,759 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:18,760 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:20,872 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:22,193 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:22,319 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:23,279 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:23,899 - com.catalog.common.Common -INFO - dsend to 
+2016-05-12 21:07:24,486 - com.catalog.common.Common -INFO - Dsend to 
+2016-05-12 21:07:24,505 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:25,410 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:25,987 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:26,002 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:26,002 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:28,125 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:31,143 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:31,221 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:32,076 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:32,786 - com.catalog.common.Common -INFO - esend to 
+2016-05-12 21:07:33,420 - com.catalog.common.Common -INFO - Esend to 
+2016-05-12 21:07:33,441 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:35,976 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:36,552 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:36,564 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:36,565 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:38,755 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:42,699 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:42,757 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:43,657 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:44,297 - com.catalog.common.Common -INFO - fsend to 
+2016-05-12 21:07:44,880 - com.catalog.common.Common -INFO - Fsend to 
+2016-05-12 21:07:44,903 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:45,785 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:46,438 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:46,469 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:07:46,469 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:07:48,555 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:07:50,365 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:07:50,462 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:07:51,382 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:07:52,012 - com.catalog.common.Common -INFO - gsend to 
+2016-05-12 21:07:52,599 - com.catalog.common.Common -INFO - Gsend to 
+2016-05-12 21:07:52,622 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:07:53,499 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:07:54,085 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:07:54,114 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:07,334 - com.catalog.common.Common -INFO - Brower Type: Chrome
+2016-05-12 21:16:07,334 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:10,057 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:11,906 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:12,169 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:13,117 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:13,777 - com.catalog.common.Common -INFO - Enter ecalix@Test.comto input
+2016-05-12 21:16:14,373 - com.catalog.common.Common -INFO - Enter test123to input
+2016-05-12 21:16:14,392 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:15,401 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:15,439 - com.catalog.common.Common -INFO - trying to click Log Off
+2016-05-12 21:16:16,298 - com.catalog.common.Common -INFO - Log Off clicked
+2016-05-12 21:16:16,453 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:16,482 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:18,757 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:19,645 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:19,728 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:20,583 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:21,249 - com.catalog.common.Common -INFO - Enter ato input
+2016-05-12 21:16:21,833 - com.catalog.common.Common -INFO - Enter Ato input
+2016-05-12 21:16:21,854 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:22,682 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:23,292 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:23,310 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:23,311 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:25,429 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:26,189 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:26,351 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:27,245 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:27,898 - com.catalog.common.Common -INFO - Enter bto input
+2016-05-12 21:16:28,491 - com.catalog.common.Common -INFO - Enter Bto input
+2016-05-12 21:16:28,519 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:29,384 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:29,961 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:29,979 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:29,980 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:32,034 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:33,081 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:33,183 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:34,008 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:34,660 - com.catalog.common.Common -INFO - Enter cto input
+2016-05-12 21:16:35,242 - com.catalog.common.Common -INFO - Enter Cto input
+2016-05-12 21:16:35,265 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:36,131 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:36,700 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:36,717 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:36,717 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:38,853 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:39,781 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:39,870 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:40,794 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:41,428 - com.catalog.common.Common -INFO - Enter dto input
+2016-05-12 21:16:42,023 - com.catalog.common.Common -INFO - Enter Dto input
+2016-05-12 21:16:42,047 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:42,982 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:43,562 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:43,574 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:43,574 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:45,713 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:46,918 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:47,017 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:47,961 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:48,593 - com.catalog.common.Common -INFO - Enter eto input
+2016-05-12 21:16:49,184 - com.catalog.common.Common -INFO - Enter Eto input
+2016-05-12 21:16:49,211 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:50,077 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:50,705 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:50,721 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:50,721 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:52,800 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:16:53,957 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:16:54,133 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:16:55,083 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:16:55,724 - com.catalog.common.Common -INFO - Enter fto input
+2016-05-12 21:16:56,317 - com.catalog.common.Common -INFO - Enter Fto input
+2016-05-12 21:16:56,338 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:16:57,197 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:16:57,777 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:16:57,809 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:16:57,809 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:16:59,949 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:17:01,388 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:17:01,443 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:17:02,652 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:17:03,292 - com.catalog.common.Common -INFO - Enter gto input
+2016-05-12 21:17:03,873 - com.catalog.common.Common -INFO - Enter Gto input
+2016-05-12 21:17:03,893 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:17:04,754 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:17:05,337 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:17:05,365 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:18:47,764 - com.catalog.common.Common -INFO - Brower Type: Chrome
+2016-05-12 21:18:47,764 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:18:50,542 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:18:51,227 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:18:51,399 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:18:52,228 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:18:52,917 - com.catalog.common.Common -INFO - Enter ecalix@Test.comto email_address
+2016-05-12 21:18:53,507 - com.catalog.common.Common -INFO - Enter test123to password
+2016-05-12 21:18:53,525 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:18:54,443 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:18:54,521 - com.catalog.common.Common -INFO - trying to click Log Off
+2016-05-12 21:18:55,476 - com.catalog.common.Common -INFO - Log Off clicked
+2016-05-12 21:18:55,505 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:18:55,538 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:18:57,733 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:18:58,601 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:18:58,671 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:18:59,607 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:19:00,231 - com.catalog.common.Common -INFO - Enter ato email_address
+2016-05-12 21:19:00,815 - com.catalog.common.Common -INFO - Enter Ato password
+2016-05-12 21:19:00,835 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:19:01,879 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:19:02,514 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:02,527 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:19:02,527 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:19:04,626 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:19:05,449 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:05,517 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:19:06,447 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:19:07,075 - com.catalog.common.Common -INFO - Enter bto email_address
+2016-05-12 21:19:07,657 - com.catalog.common.Common -INFO - Enter Bto password
+2016-05-12 21:19:07,686 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:19:08,580 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:19:09,166 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:09,177 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:19:09,177 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:19:11,307 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:19:12,541 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:12,666 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:19:13,699 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:19:14,355 - com.catalog.common.Common -INFO - Enter cto email_address
+2016-05-12 21:19:14,936 - com.catalog.common.Common -INFO - Enter Cto password
+2016-05-12 21:19:14,967 - com.catalog.common.Common -INFO - trying to click Sign In
+2016-05-12 21:19:15,856 - com.catalog.common.Common -INFO - Sign In clicked
+2016-05-12 21:19:16,443 - com.catalog.common.Common -INFO - expected text verified:  Error: No match for E-Mail Address and/or Password.
+2016-05-12 21:19:16,468 - com.catalog.common.Common -INFO - close Browser
+2016-05-12 21:19:16,468 - com.catalog.common.Common -INFO - Brower Type: Firefox
+2016-05-12 21:19:18,560 - com.catalog.common.Common -INFO - open Browser
+2016-05-12 21:19:19,448 - com.catalog.common.Common -INFO - openUrl: http://107.170.213.234/catalog/
+2016-05-12 21:19:19,528 - com.catalog.common.Common -INFO - trying to click log yourself in
+2016-05-12 21:19:20,452 - com.catalog.common.Common -INFO - log yourself in clicked
+2016-05-12 21:19:21,117 - com.catalog.common.Common -INFO - Enter dto email_address
